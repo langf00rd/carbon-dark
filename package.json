@@ -1,8 +1,10 @@
 {
   "name": "carbon-dark",
   "displayName": "Carbon Dark",
+  "publisher": "LangfordKwabena",
   "description": "🔥 Official VS code theme by Langford",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": "https://github.com/langford-dev/carbon-dark",
   "engines": {
     "vscode": "^1.77.0"
   },
