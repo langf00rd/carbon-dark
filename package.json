@@ -1,0 +1,21 @@
+{
+  "name": "carbon-dark",
+  "displayName": "Carbon Dark",
+  "description": "🔥 Official VS code theme by Langford",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Carbon Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Carbon Dark-color-theme.json"
+      }
+    ]
+  }
+}
